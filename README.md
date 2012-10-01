@@ -1,4 +1,4 @@
-![screenshot](mtully.github.com/gitsome/gitsome.gif)
+![screenshot](https://raw.github.com/mtully/gitsome/master/gitsome.gif)
 
 I love [Oh-My-ZSH](https://github.com/robbyrussell/oh-my-zsh). Part of the magic when switching from the default bash shell was playing with all the built themes. However, most of the themes were too noisy for me. I decided to trim the fat and go with a bare-bones with *some* git.
 
