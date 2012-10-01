@@ -1,0 +1,10 @@
+[gitsome](https://github.com/mtully/gitsome) is a zsh them that was built for oh-my-zsh
+
+I love Oh-My-ZSH. Part of the magic when switching from the default bash shell was all the built in plugins and prompt themes. However, most of the themes were too noisy for me. I decided to trim the fat and go with a bare-bones, git focused prompt.
+
+gitsome is a super simple prompt that features just 3 things:
+    1. The current directory
+    2. Current git branch name
+    3. Git status on the current branch
+
+That's all, feel free to improve or customize!

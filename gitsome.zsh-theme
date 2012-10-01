@@ -7,5 +7,7 @@ PROMPT='%{$fg[white]%}[%1~$(git_prompt_info)%{$fg[white]%}] %{$reset_color%}'
 
 ZSH_THEME_GIT_PROMPT_PREFIX=" "
 ZSH_THEME_GIT_PROMPT_SUFFIX=""
+
+# Customize these to change git stauts colors
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[red]%}"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[yellow]%}"
