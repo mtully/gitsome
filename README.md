@@ -7,12 +7,14 @@ I love [Oh-My-ZSH](https://github.com/robbyrussell/oh-my-zsh). Part of the magic
 
     [Directory(branch_name)]
 
-**Features**
-
 This super simple prompt with some git:
 
   1. The current directory
   2. Current git branch name
-  3. Git status on the current branch
+  3. Git status on the current branch (red/green)
 
-I would have contributed to the Oh-My-ZSH project directly, but it looks like its getting too crowded. That's all, feel free to improve or customize, cheers!
+
+**Colors and formatting**
+Gitsome now uses colors from [Ahmet Sülek's](https://github.com/ahmetsulek) awesome terminal color theme [Flat Terminal](https://github.com/ahmetsulek/flat-terminal). Red and green are slightly brighter because I prefer my terminal with a little bit of transparency. iTerm settings are included now.
+
+The typeface is [Source Code Pro](https://github.com/adobe/source-code-pro) from Adobe, set to 16pt for failing eyes.
