@@ -15,6 +15,7 @@ This super simple prompt with some git:
 
 
 **Colors and formatting**
+
 Gitsome now uses colors from [Ahmet Sülek's](https://github.com/ahmetsulek) awesome terminal color theme [Flat Terminal](https://github.com/ahmetsulek/flat-terminal). Red and green are slightly brighter because I prefer my terminal with a little bit of transparency. iTerm settings are included now.
 
 The typeface is [Source Code Pro](https://github.com/adobe/source-code-pro) from Adobe, set to 16pt for failing eyes.
